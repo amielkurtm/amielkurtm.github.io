@@ -1,0 +1,31 @@
+/*-----------------------------------------------------------------------------------
+
+	Template Name: 
+	Template URI: 
+	Description: 
+	Author: design_grid
+	Author URI:
+	Version: 1.0
+
+-----------------------------------------------------------------------------------*/
+
+/* ----------------------------------------------------------------
+			[ All Css Plugins & Helper Classes File ]
+-----------------------------------------------------------------*/
+
+/* == bootstrap == */
+
+/* == fontawesome == */
+@import url("plugins/fontawesome-all.min.css");
+
+
+
+/* == slick == */
+@import url("plugins/slick.css");
+
+/* == Swiper == */
+@import url("plugins/swiper.min.css");
+
+/* == aos == */
+@import url("plugins/aos.css");
+
